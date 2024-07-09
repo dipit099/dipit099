@@ -2,7 +2,7 @@
 <h1 align="center">Hey There👋, I'm Dipit Saha</h1>
 <h4 align="center">An Undergraduate Student of Computer Science & Engineering from Bangladesh University of Engineering & Technology</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabihatasneem&label=Profile%20views&color=0e75b6&style=flat" alt="fabihatasneem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipit099&label=Profile%20views&color=0e75b6&style=flat" alt="dipit099" /> </p>
 
 
 - 👩‍💻 All of my projects are available at **[https://github.com/dipit099](https://github.com/dipit099)**, though some of them are private.
