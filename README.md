@@ -16,9 +16,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipit099&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipit099&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipit099&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipit099&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipit099&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipit099&theme=dracula) 
 
 <h3>Languages</h3>
   
