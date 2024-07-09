@@ -15,8 +15,12 @@
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipit099&theme=dracula)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipit099&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipit099&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipit099&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipit099&theme=dracula) 
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dipit099&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipit099" /></p> </br>
+
 
 <h3>Languages</h3>
   
@@ -66,5 +70,9 @@ Youtube :
 
 HackerRank:
 <a href="https://www.hackerrank.com/dipit099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipit099" height="30" width="40" /></a>
+
+
+
+
 
 
