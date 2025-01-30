@@ -71,8 +71,8 @@ Codeforces :
 <a href="https://codeforces.com/profile/dipit099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dipit099" height="30" width="40" /></a>
 
 Kaggle : <a href="https://kaggle.com/dipit099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipit099" height="30" width="40" /></a>
-Youtube :
 
+Youtube :
 <a href="https://www.youtube.com/@dipits_learning_point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipits_learning_point" height="30" width="40" /></a>
 
 </p>
