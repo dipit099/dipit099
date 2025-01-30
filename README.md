@@ -24,6 +24,13 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dipit099&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipit099" /></p> </br>
 
+<!-- Achievement Badges -->
+<div align="center">
+  <h1>🏆 GitHub Trophies</h1>
+
+ ![](https://github-profile-trophy.vercel.app/?username=dipit099&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 <h3>Languages</h3>
   
@@ -51,31 +58,24 @@
 
 <h3>Programming Platform</h3>
   
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Codeforces-F24E1E?style=for-the-badge&logo=codeforces&logoColor=black) ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![]()
+![](https://img.shields.io/badge/Codeforces-0078D6?style=for-the-badge&logo=codeforces&logoColor=black) ![](https://img.shields.io/badge/-LeetCode-F24E1E?style=for-the-badge&logo=LeetCode&logoColor=black) ![]() ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
 
 </div>
 <h2 align="center">~~~Hope you have a great day!~~~</h2>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   
-Linkedin : <a href="https://linkedin.com/in/dipit-saha-40672721a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipit-saha-40672721a" height="30" width="40" /></a>
+<!--<h3 align="left">More :</h3>-->
+<p align="center">
 
 Codeforces :
 <a href="https://codeforces.com/profile/dipit099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dipit099" height="30" width="40" /></a>
-</p>
 
 Kaggle : <a href="https://kaggle.com/dipit099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipit099" height="30" width="40" /></a>
-
 Youtube :
+
 <a href="https://www.youtube.com/@dipits_learning_point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipits_learning_point" height="30" width="40" /></a>
 
-HackerRank:
-<a href="https://www.hackerrank.com/dipit099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipit099" height="30" width="40" /></a>
-
-
-
+</p>
 
 
 
