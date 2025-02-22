@@ -18,19 +18,30 @@
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipit099&theme=dracula)
-  
+  <!-- Achievement Badges 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipit099&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipit099&theme=dracula)
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dipit099&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipit099" /></p> </br>
 
-<!-- Achievement Badges -->
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dipit099&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipit099" /></p> </br>
+-->
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipit099&layout=compact&theme=radical&langs_count=10" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=dipit099&show_icons=true&locale=en&theme=radical&show=prs_merged" alt="dipit099"/>
+    <br></br>
+     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=dipit099&theme=radical&card_width=860" alt="JawherKl"/>
+ 
+  </p> 
+  
 <div align="center">
   <h1>🏆 GitHub Trophies</h1>
 
  ![](https://github-profile-trophy.vercel.app/?username=dipit099&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+
+
 
 <h3>Languages</h3>
   
@@ -64,7 +75,7 @@
 <h2 align="center">~~~Hope you have a great day!~~~</h2>
 
 
-<!--<h3 align="left">More :</h3>-->
+<!--<h3 align="left">More :</h3>
 <p align="center">
 
 Codeforces :
@@ -76,6 +87,24 @@ Youtube :
 <a href="https://www.youtube.com/@dipits_learning_point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipits_learning_point" height="30" width="40" /></a>
 
 </p>
+-->
+<br></br>
+<br></br>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/dipit099" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dipit099" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/dipit099/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipit099" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/dipit099" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipit099" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@dipits_learning_point" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipits_learning_point" height="30" width="40" />
+  </a>
+</p>
+<h3 align="center">📫 Connect with me</h3>
 
 
