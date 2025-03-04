@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UCDNLABgzRn2uZWilh7S3uyw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic" />
 </div>
 
-- 👩‍💻 All of my projects are available at **[https://github.com/dipit099](https://github.com/dipit099)**, though some of them are private.
+- 👩‍💻 All of my projects are available at **[https://github.com/dipit099](https://github.com/dipit099?tab=repositories)**, though some of them are private.
 
 - 📫 Feel free to reach out to me at **sdipit099@gmail.com**
 
